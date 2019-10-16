@@ -40,7 +40,7 @@
             android:scaleType="fitXY"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/ic_launcher_background"/>
+            android:src="@drawable/a"/>
     </LinearLayout>
 
     <LinearLayout
@@ -62,7 +62,7 @@
             android:scaleType="fitXY"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/ic_launcher_background"/>
+            android:src="@drawable/b"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -83,7 +83,7 @@
             android:scaleType="fitXY"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/ic_launcher_background"/>
+            android:src="@drawable/c"/>
     </LinearLayout>
     <LinearLayout
         android:orientation="vertical"
@@ -124,7 +124,7 @@
             android:scaleType="fitXY"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/ic_launcher_background"/>
+            android:src="@drawable/d"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -145,7 +145,7 @@
             android:scaleType="fitXY"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:src="@drawable/ic_launcher_background"/>
+            android:src="@drawable/e"/>
     </LinearLayout>
 
 
